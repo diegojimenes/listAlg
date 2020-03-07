@@ -1,0 +1,10 @@
+{
+  "name": "listAlg",
+  "version": "0.0.1",
+  "description": "ex",
+  "main": "index.js",
+  "repository": "https://github.com/diegojimenes/listAlg.git",
+  "author": "diego jimenes <lligaskate@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
