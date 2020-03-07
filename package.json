@@ -6,5 +6,8 @@
   "repository": "https://github.com/diegojimenes/listAlg.git",
   "author": "diego jimenes <lligaskate@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
